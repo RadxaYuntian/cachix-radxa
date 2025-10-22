@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+nix flake show --json | jq  '.packages."aarch64-linux"|keys[]' | xargs -I {} nix build .#packages.aarch64-linux.{}
