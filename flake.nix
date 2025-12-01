@@ -58,7 +58,7 @@
       stable-linuxPackages_6_6_89_kernel_dev = nixpkgs-unfree.linuxPackages_6_6_89.kernel.dev;
       stable-linuxPackages_6_6_89_kernel_r8125 = nixpkgs-unfree.linuxPackages_6_6_89.r8125;
       stable-linuxPackages_6_6_89_kernel_cix_gpu_kernel = nixpkgs-unfree.linuxPackages_6_6_89.cix_gpu_kernel;
-      stable-linuxPackages_6_6_89_kernel_cix_isp_driver = nixpkgs-unfree.linuxPackages_6_6_89.cix_isp_driver;
+      # stable-linuxPackages_6_6_89_kernel_cix_isp_driver = nixpkgs-unfree.linuxPackages_6_6_89.cix_isp_driver;
       stable-linuxPackages_6_6_89_kernel_cix_npu_driver = nixpkgs-unfree.linuxPackages_6_6_89.cix_npu_driver;
       stable-linuxPackages_6_6_89_kernel_cix_vpu_driver = nixpkgs-unfree.linuxPackages_6_6_89.cix_vpu_driver;
       stable-cix_gpu_firmware_2025_09 = nixpkgs-unfree.cix_gpu_firmware_2025_09;
@@ -70,7 +70,7 @@
       unstable-linuxPackages_6_6_89_kernel_dev = nixpkgs-unstable-unfree.linuxPackages_6_6_89.kernel.dev;
       unstable-linuxPackages_6_6_89_kernel_r8125 = nixpkgs-unstable-unfree.linuxPackages_6_6_89.r8125;
       unstable-linuxPackages_6_6_89_kernel_cix_gpu_kernel = nixpkgs-unstable-unfree.linuxPackages_6_6_89.cix_gpu_kernel;
-      unstable-linuxPackages_6_6_89_kernel_cix_isp_driver = nixpkgs-unstable-unfree.linuxPackages_6_6_89.cix_isp_driver;
+      # unstable-linuxPackages_6_6_89_kernel_cix_isp_driver = nixpkgs-unstable-unfree.linuxPackages_6_6_89.cix_isp_driver;
       unstable-linuxPackages_6_6_89_kernel_cix_npu_driver = nixpkgs-unstable-unfree.linuxPackages_6_6_89.cix_npu_driver;
       unstable-linuxPackages_6_6_89_kernel_cix_vpu_driver = nixpkgs-unstable-unfree.linuxPackages_6_6_89.cix_vpu_driver;
       unstable-cix_gpu_firmware_2025_09 = nixpkgs-unstable-unfree.cix_gpu_firmware_2025_09;
